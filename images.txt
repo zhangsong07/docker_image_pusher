@@ -1,3 +1,5 @@
-docker.io/kubernetesui/dashboard-api:1.10.0
+hectorqin/reader
+lkw199711/smanga
+gotson/komga
 #支持指定架构
 --platform=linux/arm64
