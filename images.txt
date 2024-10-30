@@ -1,5 +1,3 @@
-hectorqin/reader
-lkw199711/smanga
-gotson/komga
+containrrr/watchtower
 #支持指定架构
 --platform=linux/arm64
