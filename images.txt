@@ -1,4 +1,1 @@
-ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.113.0
-gcr.io/kubebuilder/kube-rbac-proxy:v0.13.1
-#支持指定架构
---platform=linux/arm64
+nginx
