@@ -1,1 +1,1 @@
-tempo:2.7.1
+grafana/tempo:2.7.1
