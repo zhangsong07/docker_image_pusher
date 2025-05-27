@@ -1,1 +1,1 @@
-grafana/tempo:2.7.1
+opentelemetry-collector-contrib:0.97.0
